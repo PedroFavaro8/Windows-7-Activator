@@ -12,6 +12,7 @@ echo - Windows 7 Ultimate
 echo - Windows 7 Professional
 echo - Windows 7 Home Premium
 echo - Windows 7 pro
+echo -Warning: the Windows 7 Pro activation might not work
 echo ----------------------------
 echo 1 ) Windows 7 Ultimate
 echo 2 ) Windows 7 Professional
@@ -85,4 +86,5 @@ goto END
 
 :END
 @echo on
+
 
